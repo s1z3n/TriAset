@@ -308,7 +308,7 @@ header {
     header nav .logo {
       height: 65px;
       width: 150px;
-      background: url(/TriAset/assets/images/favicon.png);
+      background: url(/Triaset/assets/images/favicon.png);
       background-size: cover;
       margin: 5px 20px; }
     header nav .nav-main {
@@ -831,7 +831,7 @@ a.contact-btn {
         .modal-bg .modal-box .location .address p {
           font-size: 13px;
           line-height: 1.5;
-          max-width: 160px;
+          max-width: 300px;
           text-align: left;
           padding-left: 10px;
           margin-bottom: 5px; }

@@ -1,5 +1,5 @@
 markdown: redcarpet
-baseurl: /TriAset
+baseurl: /Triaset
 exclude: ["README.md"]
 permalink: pretty
 

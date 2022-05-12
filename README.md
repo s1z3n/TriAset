@@ -1,2 +1,2 @@
-# TriAset
-TriAset website
+# Triaset
+Triaset website
