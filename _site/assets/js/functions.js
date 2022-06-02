@@ -17,8 +17,8 @@ $(document).ready(function() {
 
 
   });
-
-  $('#Creative-Designer').click(function(){
+// Creative Designer
+  $('#Account-Assistant').click(function(){
     $('.job-modal-bg-1').addClass('is-open');
 
   });
@@ -57,7 +57,7 @@ $('#Application-Consultant').click(function(){
 
 
 
-
+// Financial Engineer
 $('#Business-Consultant').click(function(){
     $('.job-modal-bg-3').addClass('is-open');
     // return false
@@ -147,7 +147,7 @@ $('#Software-Engineer').click(function(){
   });
 
 
-
+// Tech Support
    $('#it-engineer').click(function(){
     $('.job-modal-bg-7').addClass('is-open');
     // return false
@@ -168,9 +168,9 @@ $('#Software-Engineer').click(function(){
 
 
 
+// HR & Admin
 
-
-$('#HR-Admin').click(function(){
+$('#project-manager').click(function(){
     $('.job-modal-bg-8').addClass('is-open');
     // return false
   });
