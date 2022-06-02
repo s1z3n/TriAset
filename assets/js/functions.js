@@ -18,7 +18,7 @@ $(document).ready(function() {
 
   });
 
-  $('#Account-Assistant').click(function(){
+  $('#Creative-Designer').click(function(){
     $('.job-modal-bg-1').addClass('is-open');
 
   });
@@ -170,7 +170,7 @@ $('#Software-Engineer').click(function(){
 
 
 
-$('#project-manager').click(function(){
+$('#HR-Admin').click(function(){
     $('.job-modal-bg-8').addClass('is-open');
     // return false
   });
